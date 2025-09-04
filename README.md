@@ -1,20 +1,16 @@
-Perfeito. Aqui está o README atualizado com base nas informações que você forneceu.
+<h1 align="center"\>Gerenciador de Tarefas CLI\</h1\>
+
+<p align="center"\>
+ <a href="\#objective"\>Objective\</a\> •
+ <a href="\#about"\>About\</a\> •
+ <a href="\#installation"\>Installation\</a\> • 
+ <a href="\#technology"\>Technology\</a\> • 
+ <a href="\#author"\>Author\</a\> •
+</p\>
 
 -----
 
-\<h1 align="center"\>Gerenciador de Tarefas CLI\</h1\>
-
-\<p align="center"\>
- \<a href="\#objective"\>Objective\</a\> •
- \<a href="\#about"\>About\</a\> •
- \<a href="\#installation"\>Installation\</a\> • 
- \<a href="\#technology"\>Technology\</a\> • 
- \<a href="\#author"\>Author\</a\> •
-\</p\>
-
------
-
-\<h2 id="about"\>📝 About\</h2\>
+<h2 id="about"\>📝 About\</h2\>
 Este projeto é um aplicativo de linha de comando (CLI) para gerenciamento de tarefas. Ele foi desenvolvido com uma arquitetura modular, seguindo o padrão **MVC (Model-View-Controller)**, e utiliza dois modelos de dados interconectados para oferecer funcionalidades avançadas, como prazos e status de atraso.
 
 ### 1\. Modelagem de Dados
