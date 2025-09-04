@@ -1,23 +1,19 @@
-Perfeito. Aqui está o README atualizado com base nas informações que você forneceu.
+<h1 align="center">Gerenciador de Tarefas CLI\</h1>
+
+<p align="center">
+ <a href="#objective">Objective</a> •
+ <a href="#about">About</a> •
+ <a href="#installation">Installation</a> • 
+ <a href="#technology">Technology</a> • 
+ <a href="#author">Author</a> •
+</p>
 
 -----
 
-\<h1 align="center"\>Gerenciador de Tarefas CLI\</h1\>
+<h2 id="about">📝 About</h2>
+Este projeto é um aplicativo de linha de comando (CLI) para gerenciamento de tarefas. Ele foi desenvolvido com uma arquitetura modular, seguindo o padrão MVC (Model-View-Controller), e utiliza dois modelos de dados interconectados para oferecer funcionalidades avançadas, como prazos e status de atraso.
 
-\<p align="center"\>
- \<a href="\#objective"\>Objective\</a\> •
- \<a href="\#about"\>About\</a\> •
- \<a href="\#installation"\>Installation\</a\> • 
- \<a href="\#technology"\>Technology\</a\> • 
- \<a href="\#author"\>Author\</a\> •
-\</p\>
-
------
-
-\<h2 id="about"\>📝 About\</h2\>
-Este projeto é um aplicativo de linha de comando (CLI) para gerenciamento de tarefas. Ele foi desenvolvido com uma arquitetura modular, seguindo o padrão **MVC (Model-View-Controller)**, e utiliza dois modelos de dados interconectados para oferecer funcionalidades avançadas, como prazos e status de atraso.
-
-### 1\. Modelagem de Dados
+### 1. Modelagem de Dados
 
 A aplicação lida com duas entidades principais que se relacionam: **Tarefa** e **Agendamento**. A modelagem de dados é definida no `schema.prisma`.
 
@@ -50,24 +46,25 @@ A aplicação é dividida em três camadas principais:
 
 -----
 
-\<h2 id="installation"\>📲 Installation\</h2\>
+<h2 id="installation">📲 Installation</h2>
 
 1.  Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/r4santos/Gerenciador_Tarefas_com_Prazo_Status.git
+    ```
+
+    ```bash
+    cd Gerenciador_Tarefas_com_Prazo_Status
     ```
 
 2.  Instale as dependências do projeto:
 
     ```bash
-    npm install
+    npm i
     ```
 
 3.  Configure o banco de dados MongoDB e o Prisma.
-
-    > (Adicionar instruções específicas aqui, se houver, como `npx prisma migrate dev`).
 
 4.  Execute a aplicação:
 
@@ -77,7 +74,7 @@ A aplicação é dividida em três camadas principais:
 
 -----
 
-\<h2 id="technology"\>🛠️ Technology\</h2\>
+<h2 id="technology">🛠️ Technology</h2>
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
@@ -88,8 +85,6 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 -----
 
-\<h2 id="author"\> Author\</h2\>
+<h2 id="author"> Author\</h2>
 
-Developed by \<a href="[https://www.linkedin.com/in/rafael-santos-8a0b44313//](https://www.linkedin.com/in/rafael-santos-8a0b44313//)" target="\_blank"\>Rafael Santos\</a\>
-
------
+Developed by <a href="[https://www.linkedin.com/in/rafael-santos-8a0b44313//](https://www.linkedin.com/in/rafael-santos-8a0b44313//)" target="\_blank">Rafael Santos\</a>
