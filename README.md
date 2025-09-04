@@ -78,13 +78,13 @@ A aplicação é dividida em três camadas principais:
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-  * **IDE**: \<a href="[https://code.visualstudio.com/](https://code.visualstudio.com/)"\>Visual Studio Code\</a\>
-  * **SDK**: \<a href="[https://nodejs.org/en](https://nodejs.org/en)"\>Node.js\</a\>
-  * **Database**: \<a href="[https://www.mongodb.com/](https://www.mongodb.com/)"\>MongoDB\</a\>
-  * **ORM**: \<a href="[https://www.prisma.io/](https://www.prisma.io/)"\>Prisma\</a\>
+  * **IDE**: <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+  * **SDK**: <a href="https://nodejs.org/en">Node.js</a>
+  * **Database**: <a href="https://www.mongodb.com/">MongoDB</a>
+  * **ORM**: <a href="https://www.prisma.io/">Prisma</a>
 
 -----
 
 <h2 id="author"> Author\</h2>
 
-Developed by <a href="[https://www.linkedin.com/in/rafael-santos-8a0b44313//](https://www.linkedin.com/in/rafael-santos-8a0b44313//)" target="\_blank">Rafael Santos\</a>
+Developed by <a href="https://www.linkedin.com/in/rafael-santos-8a0b44313//" target="_blank">Rafael Santos</a>
