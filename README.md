@@ -85,6 +85,6 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 -----
 
-<h2 id="author"> Author\</h2>
+<h2 id="author"> Author</h2>
 
 Developed by <a href="https://www.linkedin.com/in/rafael-santos-8a0b44313//" target="_blank">Rafael Santos</a>
